@@ -1,9 +1,11 @@
 # Vault data
-the-digital-brain/media/*
-!the-digital-brain/media/.gitkeep
+menu.md
 
-the-digital-brain/templates/*
-!the-digital-brain/templates/.gitkeep
+media/*
+!media/.gitkeep
 
-the-digital-brain/notes/*
-!the-digital-brain/notes/.gitkeep
+templates/*
+!templates/.gitkeep
+
+notes/*
+!notes/.gitkeep
