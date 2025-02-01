@@ -1,11 +1,21 @@
-# Vault data
+# # # # Vault data # # # #
 menu.md
 
+# # # # Media # # # #
 media/*
 !media/.gitkeep
 
+# # # # Templates # # # #
 templates/*
 !templates/.gitkeep
 
+# # # # Notes # # # #
 notes/*
 !notes/.gitkeep
+
+# # # # Modules # # # #
+modules/*
+!modules/.gitkeep
+
+# # # # OS # # # #
+.DS_Store
