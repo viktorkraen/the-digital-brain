@@ -1,10 +1,6 @@
 # # # # Vault data # # # #
 menu.md
 
-# # # # Media # # # #
-media/*
-!media/.gitkeep
-
 # # # # Templates # # # #
 templates/*
 !templates/.gitkeep
