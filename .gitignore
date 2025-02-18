@@ -13,9 +13,9 @@ templates/*
 notes/*
 !notes/.gitkeep
 
-# # # # Modules # # # #
-modules/*
-!modules/.gitkeep
+# # # # TTS # # # #
+tts/*
+!tts/.gitkeep
 
 # # # # OS # # # #
 .DS_Store
