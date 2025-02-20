@@ -3,7 +3,7 @@ menu.md
 
 # # # # Templates # # # #
 templates/*
-!templates/.gitkeep
+!templates/moc-$template.md
 
 # # # # Notes # # # #
 notes/*
