@@ -9,9 +9,22 @@ templates/*
 notes/*
 !notes/.gitkeep
 
+# # # # Media # # # #
+media/*
+!media/.gitkeep
+
 # # # # TTS # # # #
-tts/*
-!tts/.gitkeep
+modules/language-learning/tts/*
+!modules/language-learning/tts/.gitkeep
+
+# # # # Canvases # # # #
+canvases/*
+!canvases/.gitkeep
+
+# # # # Languages # # # #
+modules/language-learning/Deutsch/*
+modules/language-learning/English/*
+modules/language-learning/Ukrainian/*
 
 # # # # OS # # # #
 .DS_Store
