@@ -13,6 +13,11 @@ notes/*
 media/*
 !media/.gitkeep
 
+# # # # Banners # # # #
+media/banners/*
+!media/banners
+!media/banners/.gitkeep
+
 # # # # TTS # # # #
 modules/language-learning/tts/*
 !modules/language-learning/tts/.gitkeep
