@@ -1,6 +1,7 @@
 ---
 banner: "![[Desk.jpg]]"
 banner_x: 0.48357
+banner_y: 0.528
 ---
 
 `💻 Do not modify this file. It will be updated by the developers`
