@@ -11,7 +11,7 @@ banner_x: 0.48357
 > 📺 __A main console of the life-container__
 > - __Date:  21.01.2025__
 # ✨ MOCS
-- [[menu|Your main menu]] `<- Here will be stored your menu MOC`
+- 📖 [[menu|Your main menu]] `<- Here will be stored your menu MOC`
 - [[inbox|Your inbox]] `<- Here will be stored all notes that have not been sorted yet`
 # 🗳️ About `life-container` idea
 - [[README|Documentation]]
