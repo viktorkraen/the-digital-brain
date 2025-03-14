@@ -1,0 +1,107 @@
+{
+    "name": "German",
+    "language": "de",
+    "gender": "female",
+    "phonemes": {
+        "a": ["a"],
+        "ä": ["ae"],
+        "b": ["b"],
+        "c": ["k"],
+        "ch": ["x"],
+        "d": ["d"],
+        "e": ["e"],
+        "ei": ["ai"],
+        "eu": ["oy"],
+        "f": ["f"],
+        "g": ["g"],
+        "h": ["h"],
+        "i": ["i"],
+        "ie": ["i:"],
+        "j": ["j"],
+        "k": ["k"],
+        "l": ["l"],
+        "m": ["m"],
+        "n": ["n"],
+        "o": ["o"],
+        "ö": ["oe"],
+        "p": ["p"],
+        "pf": ["pf"],
+        "qu": ["kv"],
+        "r": ["r"],
+        "s": ["s"],
+        "sch": ["sh"],
+        "sp": ["shp"],
+        "st": ["sht"],
+        "t": ["t"],
+        "tz": ["ts"],
+        "u": ["u"],
+        "ü": ["ue"],
+        "v": ["f"],
+        "w": ["v"],
+        "x": ["ks"],
+        "y": ["y"],
+        "z": ["ts"],
+        "ß": ["s"]
+    },
+    "rules": [
+        {
+            "pattern": "ie",
+            "replacement": "i:"
+        },
+        {
+            "pattern": "ei",
+            "replacement": "ai"
+        },
+        {
+            "pattern": "eu",
+            "replacement": "oy"
+        },
+        {
+            "pattern": "äu",
+            "replacement": "oy"
+        },
+        {
+            "pattern": "ch",
+            "replacement": "x"
+        },
+        {
+            "pattern": "sch",
+            "replacement": "sh"
+        },
+        {
+            "pattern": "tsch",
+            "replacement": "tsh"
+        },
+        {
+            "pattern": "sp(?=[aeiouyäöü])",
+            "replacement": "shp"
+        },
+        {
+            "pattern": "st(?=[aeiouyäöü])",
+            "replacement": "sht"
+        },
+        {
+            "pattern": "(?<=[aeiouyäöü])s(?=[aeiouyäöü])",
+            "replacement": "z"
+        },
+        {
+            "pattern": "^s(?=[aeiouyäöü])",
+            "replacement": "z"
+        },
+        {
+            "pattern": "er$",
+            "replacement": "a"
+        },
+        {
+            "pattern": "ig$",
+            "replacement": "ix"
+        }
+    ],
+    "stress": {
+        "default": "first",
+        "exceptions": {
+            "pattern": "(?:be|ge|er|ver|zer|ent|emp|miss).*",
+            "stress": "second"
+        }
+    }
+} 

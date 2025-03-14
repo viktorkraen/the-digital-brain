@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "46a1877a7f1935a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2514cf3c53520c0f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modules/service-notes/console.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "console"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd3cd48e03513961",
+    "type": "split",
+    "children": [
+      {
+        "id": "f19b6e7439f18b05",
+        "type": "tabs",
+        "dimension": 50.57833859095689,
+        "children": [
+          {
+            "id": "8b239431e3e8a5fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8a978caaefe44aff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Träu",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e35b9601b1a19fbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b5ec15987e2cf893",
+        "type": "tabs",
+        "dimension": 49.42166140904311,
+        "children": [
+          {
+            "id": "39e60617afb83a9b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "8ea667b959fc9f88",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff90cfcc3b4f1e51",
+        "type": "tabs",
+        "dimension": 30.8994708994709,
+        "children": [
+          {
+            "id": "1dc53fe7991a73ec",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "modules/service-notes/console.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3933108159071604,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of console"
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb3874e1791f1a9d",
+        "type": "tabs",
+        "dimension": 21.164021164021165,
+        "children": [
+          {
+            "id": "13c6bf204c8a8626",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ceb0a65ba29fbed",
+        "type": "tabs",
+        "dimension": 47.93650793650793,
+        "children": [
+          {
+            "id": "ae15e40a58bb7636",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "the-digital-brain/modules/service-notes/console.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for console"
+            }
+          },
+          {
+            "id": "9d6ee29e9ae954cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "326d7a282feedbbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "the-digital-brain/modules/service-notes/console.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from console"
+            }
+          },
+          {
+            "id": "8ffadf681e9ce9b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "modules/service-notes/console.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of console"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "2514cf3c53520c0f",
+  "lastOpenFiles": [
+    "modules/service-notes/console.md",
+    "the-digital-brain/modules/service-notes/console.md",
+    "docs/LC2.md",
+    "the-digital-brain/modules/service-notes/inbox.md",
+    "the-digital-brain/notes/menu.md",
+    "README.md",
+    "console.md",
+    "the-digital-brain/modules/service-notes",
+    "the-digital-brain/modules/service-banners/Desk.jpg",
+    "the-digital-brain/media/banners",
+    "docs/LC.md"
+  ]
+}

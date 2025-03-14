@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "path:the-digital-brain  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#languages/Deutsch-tts-de",
+      "color": {
+        "a": 1,
+        "rgb": 9060613
+      }
+    },
+    {
+      "query": "tag:#languages/English-tts-en",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#languages/Ukrainian-tts-uk",
+      "color": {
+        "a": 1,
+        "rgb": 240
+      }
+    },
+    {
+      "query": "tag:#Summaries",
+      "color": {
+        "a": 1,
+        "rgb": 15017215
+      }
+    },
+    {
+      "query": "$template",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "file:console",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#MOC ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.502237955729167,
+  "repelStrength": 18.23974609375,
+  "linkStrength": 0.944295247395833,
+  "linkDistance": 30,
+  "scale": 0.5625117962457753,
+  "close": false
+}

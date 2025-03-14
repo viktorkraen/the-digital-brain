@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the-digital-brain/modules/service-notes/console.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "console"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "236228926a94aade",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "35bb5cff50399684",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "1faae94e04a1bb32",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3e6f2bf86041b34c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "dc71f58ea0df4c98",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Lesezeichen"
+        }
+      },
+      {
+        "id": "3332a6f09f95663f",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "clock",
+          "title": "Recent Files"
+        }
+      },
+      {
+        "id": "c4abffd1e725e8c1",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c3e8f23b7703b1e1",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "clock",
+          "title": "Recent Files"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c2eff3f7be5b3c7f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6dde64386a3e0c38",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "the-digital-brain/modules/language-learning/Deutsch/DE - Der Präsident hat eine wichtige Entscheidung getroffen.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "fd776f2a0084783e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "console.md.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Ausgehende Links"
+        }
+      },
+      {
+        "id": "85d54b18e122c322",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "console.md.md"
+          },
+          "icon": "lucide-list",
+          "title": "Gliederung"
+        }
+      },
+      {
+        "id": "c23fd1c3a91d9a19",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      },
+      {
+        "id": "26e1b27ec435f094",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "924a49ad8142118b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f17720ef286fb31d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "c23fd1c3a91d9a19",
+  "lastOpenFiles": [
+    "the-digital-brain/modules/service-notes/console.md",
+    "the-digital-brain/notes/Untitled.md",
+    "the-digital-brain/modules/language-learning/Deutsch/pos/Nomen.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - die Fernbedienung die Fernbedienungen.md",
+    "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
+    "console.md",
+    "the-digital-brain/modules/language-learning/tts/4ddbdb5f-fa97-457e-8104-3709665240c3.mp3",
+    "the-digital-brain/modules/language-learning/tts/08acd2df-2551-47c1-b279-41aeab9d2113.mp3",
+    "the-digital-brain/modules/language-learning/tts/426b6e5b-9faf-463e-acf8-1b69d8039771.mp3",
+    "the-digital-brain/modules/language-learning/tts/d449cf32-fb84-420e-984b-c74f5fd10a9f.mp3",
+    "the-digital-brain/modules/language-learning/tts/d43488a9-d2f6-4abe-8079-0b1c91859a33.mp3",
+    "the-digital-brain/modules/language-learning/tts/427b473d-356e-49f2-aa04-ffbd5820e804.mp3",
+    "the-digital-brain/modules/language-learning/tts/b13e604a-0484-4404-ab53-4226dd56d987.mp3",
+    "the-digital-brain/modules/language-learning/tts/44472046-cdc8-4c23-9d63-4fe484b9e388.mp3",
+    "the-digital-brain/modules/language-learning/tts/746e4d13-d718-479f-9f01-4843576988b3.mp3",
+    "the-digital-brain/modules/language-learning/tts/139321c4-780c-4e2d-b713-617471ad0033.mp3",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Die Scheinehe ist rechtlich problematisch.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - die Scheinehe die Scheinehen.md",
+    "README.md",
+    "the-digital-brain/menu.md",
+    "the-digital-brain/modules/language-learning/Deutsch/pos/Sätze.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - die Fernbeziehung die Fernbeziehungen.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Die Beziehung zwischen den Freunden ist stark.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - die Beziehung die Beziehungen.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - das Ereignis die Ereignisse.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Unerträglich.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Ich werde auf Süßigkeiten verzichten.md",
+    "the-digital-brain/modules/language-learning/Deutsch/pos/Adjektive.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Notwendig.md",
+    "the-digital-brain/modules/language-learning/Deutsch/pos/Adverbien.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Der Präsident hat eine wichtige Entscheidung getroffen.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Er wird Präsident werden.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - der Englischkurs die Englischkurse.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - die Musik die Musiken.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Ich freue mich über das schöne Wetter.md",
+    "the-digital-brain/modules/language-learning/Deutsch/pos/Verben.md",
+    "Media/il_1588xN.3676175524_eqms.webp",
+    "Media/1d72b0a461076971f16dc1e3a4655f7b.gif",
+    "Canvas/Struktur.canvas",
+    "Settings/Media/Pasted image 20240503014500.png"
+  ]
+}

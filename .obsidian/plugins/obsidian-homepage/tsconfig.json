@@ -1,0 +1,30 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"inlineSourceMap": true,
+		"inlineSources": true,
+		"module": "ESNext",
+		"target": "es2021",
+		"allowJs": true,
+		"noImplicitAny": true,
+		"moduleResolution": "bundler",
+		"importHelpers": true,
+		"strict": true,
+		"strictPropertyInitialization": false,
+		"skipLibCheck": true,
+		"isolatedModules": true,
+		"noFallthroughCasesInSwitch": true,
+		"lib": [
+			"dom",
+			"es5",
+			"es6",
+			"scripthost",
+			"es2017",
+			"es2018",
+			"es2019",
+			"es2020",
+			"es2021"
+		]
+	},
+	"include": ["**/*.ts"]
+}

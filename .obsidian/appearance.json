@@ -1,0 +1,13 @@
+{
+  "accentColor": "#723d9e",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "nativeMenus": false,
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "translucency": true,
+  "theme": "system",
+  "baseFontSize": 15
+}
