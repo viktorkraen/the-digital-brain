@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:the-digital-brain  ",
+  "collapse-filter": false,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -68,5 +68,5 @@
   "linkStrength": 0.944295247395833,
   "linkDistance": 30,
   "scale": 0.5625117962457753,
-  "close": false
+  "close": true
 }
