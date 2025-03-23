@@ -4,7 +4,7 @@ banner_x: 0.48357
 banner_y: 0.528
 ---
 
-`💻 Only modify the "List of MOCs" section. All other changes are managed by developers and may cause errors ❌`
+`💻 Only modify the "📨 Pending" section. All other changes are managed by developers and may cause errors ❌`
 
 🏷️ **Tags:** #MOC
 
